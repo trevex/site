@@ -260,4 +260,10 @@ a {
 .lead {
   font-size: 1.0rem;
 }
+.sidebar-icon {
+  position:relative;
+  display: inline-block;
+  float: left;
+  padding: 5px;
+}
 
