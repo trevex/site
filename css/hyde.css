@@ -79,8 +79,8 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-family: 'Syncopate', sans-serif;
+  font-size: 2.0rem;
 }
 
 /* Sidebar nav */
@@ -248,3 +248,16 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Nik Voss */
+.theme-nik-voss .sidebar {
+  background-color: #20313f;
+}
+a {
+  color: #195d8c;
+  text-decoration: none;
+}
+.lead {
+  font-size: 1.0rem;
+}
+
