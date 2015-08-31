@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            'Nik Voss'
-tagline:          ''
+tagline:          'Personal Blog'
 description:      'Pixel Chemist / Game Developer / Computer Science Student.'
 
 url:              http://nikvoss.com
